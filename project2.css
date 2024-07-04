@@ -1,0 +1,210 @@
+#a1{
+    height: 1900px;
+}
+.a{
+    background-color: black;
+    height: 100px;
+}
+h1{
+    margin-top: 30px;
+    color: green;
+    line-height: 25px;
+}
+
+.a ul li{
+    display: inline-block;
+    margin: 20px 30px;
+}
+
+.a ul li a{
+    text-transform: uppercase;
+    color: white;
+    text-decoration: aqua;
+}
+
+.b{
+    padding-left: 700px;
+    line-height: -50px;
+}
+
+#c{
+    background-color: green;
+    height: 400px;
+    margin-top: 0%;
+}
+span{
+    padding-left: 100px;
+    font-size: xx-large ;
+    color: whitesmoke;
+}
+
+k{
+    color: black;
+}
+
+.d{
+    padding-left: 400px;
+    
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border-image: 150px;
+}
+
+#m{
+    background-color: brown;
+    height: 300px;
+    
+}
+
+.container{
+    display: flex;
+    height: 370px;
+
+  }
+  .div {
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    flex: 1;
+    margin: 10px;
+    border-right: 1px solid black;
+    text-align: center;
+  }
+
+  h2{
+    color: green;
+  }
+
+  button{
+    background-color: green;
+    border-radius: 5px;
+  }
+
+  .b1{
+    display: flex;
+    background-color: white;
+    height: 200px;
+    
+  }
+  .b2{
+    height: 200px;
+    width: 600px;
+    background-color: white;
+    flex: 1;
+    margin: 1px;
+    padding-left: 50px;
+    
+  }
+
+  .a1{
+    display: flex;
+    background-color: white;
+    height: 300px;
+    
+  }
+  .a2{
+    height: 200px;
+    width: 600px;
+    background-color: white;
+    flex: 1;
+    margin: 1px;
+    padding-left: 50px;
+    display: flex;
+    
+    
+  }
+
+  .su{
+    
+    height: 170px;
+    width: 150px;
+    background-color: white;
+    flex: 1;
+    margin-right: ;
+    padding-left: 30px;
+    
+    
+  }
+
+  .a21{
+    padding-left: 50px;
+  }
+
+  .l1{
+    background-color: green;
+    height: 100px;
+    display: flex;
+  }
+  
+  .l12{
+    background-color: aliceblue;
+    height: 90px;
+    width: 90px;
+  }
+
+  .l13{
+    background-color: black;
+    height: 100px;
+    
+  }
+
+  .f1{
+    background-color: black;
+    height: 150px;
+    margin-top: 50px;
+    display: flex;
+  }
+
+  .f12{
+    background-color: black;
+    height: 150px;
+    width: 460px;
+    margin-left: 30px;
+    border-bottom: 1px solid white;
+    border-color:white;
+  }
+
+  p7{
+    color: white;
+  }
+
+  .w1{
+    background-color: black;
+    height: 600px;
+    display: flex;
+
+  }
+  .w12{
+      background-color: black;
+      height: 450px;
+      width: 460px;
+      margin-left: 30px;
+    border-bottom: 1px solid white;
+    border-color:white;
+    padding-left: 50px;
+    padding-top: 50px;
+  }
+
+  input{
+    background-color: black;
+    border-bottom: 1px solid white;
+    border-right: 1px solid white ;
+    color: green;
+    font-size: x-large;
+  }
+
+  value{
+    color: green;
+  }
+
+  textarea{
+    background-color: black;
+    border-bottom: 1px solid white;
+    border-right: 1px solid white ;
+    color: green;
+    font-size: x-large;
+
+  }
